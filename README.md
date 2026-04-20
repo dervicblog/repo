@@ -21,4 +21,4 @@ You can add this repository to your Cydia or Sileo package manager using the fol
 If you are interested in contributing, reporting bugs, or suggesting new packages to be hosted, feel free to open an *Issue* in this repository.
 
 ## ⚖️ License
-[Insert your preferred license here, e.g., MIT License]
+[ e.g., MIT License]
